@@ -18,6 +18,6 @@ main:
   - title: "Fieldwork"
     url: /fieldwork/
 
-  # - title: "CV"
-  #   url: /cv/
+   - title: "CV"
+     url: /cv/
     
