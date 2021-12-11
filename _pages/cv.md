@@ -13,31 +13,18 @@ Download Full CV [here](/files/VMF_academic_cv.pdf).
 
 ## Education
 
-* 2017-2021: PhD, Imperial College London 
-* 2015-2016: MSci Geological Sciences, University of Cambridge
-* 2012-2015: BA Natural Sciences, University of Cambridge
+* 2017-2021: Ph.D. in Agronomy - Soil Science and Plant Nutrition, University of São Paulo (Brazil) 
+* 2015-2017: M.Sc. in Agronomy - Soil Science and Plant Nutrition, University of São Paulo (Brazil)
+* 2010-2015: B.Sc. in Geography, Federal University of Pernambuco (Brazil)
+* 2009-2010: Agricultural Technician, Federal Rural University of Pernambuco (Brazil)
 
 ## Awards
 
-* 2020 _Faculty of Engineering Graduate Teaching Assistant of the Year_ Imperial College London
-* 2020 _Earth Sciences and Engineering Graduate Teaching Assistant of the Year_ Imperial College London
-* 2020 _Outstanding Graduate Teaching Assistant Student Union Choice Award nomination_ Imperial College London
-* 2019 _Janet Watson Research Prize for Excellence in Research_ Imperial College London
-* 2019 _Award for invited conference talk by PhD student_ Imperial College Trust
-* 2018 _Outstanding Student Presentation Award_ AGU Fall Meeting
-
-## Student Supervision
-
-* 2019, I. Wapenhans, _MSci Project_, North American rivers: Scale-dependence, scale-variance and correlation to environment.
-* 2018, M. Morris, _MSci Project_, Neogene evolution of the New Jersey margin.
-* 2018, S. Mitchell,  _MSci Project_, Long-term response to faulting: Insights from tectonic and landscape evolution modelling.
-* 2017, B. Conway-Jones, _MSci Project_, Neogene Epeirogeny of Iberia.
-
-## Service and Leadership
-
-* 2019-2021 Earth Science and Engineering Athena SWAN Committee
-* 2018-2019 Earth Science and Engineering Graduate Society Committee
-* 2017-2018 EAGE Student Chapter - Graduate Student Representative
+* 2019 _Research's fellowship - FAPESP (Grant number:	19/10708-7)
+* 2018 _Graduate Teaching Assistant - Department of Soil Science, ESALQ/USP
+* 2018 _Doctoral's fellowship - FAPESP (Grant number:	17/22292-4)
+* 2017 _Graduate Teaching Assistant - Department of Soil Science, ESALQ/USP
+* 2016 _Master's fellowship - FAPESP (Grant number:	15/16172-0)
 
 ## Publications
 
