@@ -1,10 +1,14 @@
 # main links links
 main:
+
+  - title: "Education & Couses"
+    url: /education/
+
   - title: "Publications"
     url: /publications/
 
-  - title: "Presentations"
-    url: /presentations/    
+  #  - title: "Presentations"
+  #  url: /presentations/    
 
   # - title: "Portfolio"
   #   url: /portfolio/
@@ -15,9 +19,5 @@ main:
   # - title: "Outreach"
   #   url: /outreach/
     
-  - title: "Fieldwork"
-    url: /fieldwork/
-
-  - title: "CV"
-    url: /cv/
-    
+  # - title: "Fieldwork"
+  #  url: /fieldwork/
