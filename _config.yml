@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Karina P.P. Marques"
+title                    : "Karina P. P. Marques"
 title_separator          : "-"
 name                     : &name "Karina P.P. Marques"
 description              : &description ""
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Karina P. P. Marques"
+  name             : "Karina P.P. Marques, Ph.D."
   avatar           : "profile_picture.jpg"
-  bio              : "Geoscientist, Ph.D."
-  location         : "Brazil"
+  bio              : "Soil Scientist and Geomorphologist"
+  location         : ""
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=sW2hkhcAAAAJ&hl=en"

@@ -35,4 +35,4 @@ Silva, W.P., Almeida, C.D.G.C., **Marques, K.P.P.**, Almeida, G.L.P., Almeida, B
 
 Demattê, J.A.M., Ramirez-Lopez, L., **Marques, K.P.P.**, Rodella, A.A. (2017). Chemometric soil analysis on the determination of specific bands for the detection of magnesium and potassium by spectroscopy. Geoderma, v.288, p.8-22. [Article link](https://www.sciencedirect.com/science/article/abs/pii/S0016706116307698)
 
-Demattê, J.A.M., Horak-Terra, I., Beirigo, R.M., Terra, F.S., **Marques, K.P.P.**, Fongaro, C.T., Silva, A.C., Vidal-Torrado, P. (2017). Genesis and properties of wetland soils by VIS-NIR-SWIR as a technique for environmental monitoring. Journal of Environmental Management, v.197, p.50-62. https://doi.org/10.1016/j.jenvman.2017.03.014)
+Demattê, J.A.M., Horak-Terra, I., Beirigo, R.M., Terra, F.S., **Marques, K.P.P.**, Fongaro, C.T., Silva, A.C., Vidal-Torrado, P. (2017). Genesis and properties of wetland soils by VIS-NIR-SWIR as a technique for environmental monitoring. Journal of Environmental Management, v.197, p.50-62. [Article link](https://doi.org/10.1016/j.jenvman.2017.03.014)
